@@ -1,7 +1,7 @@
 # Description
-This is demo of task from freelance. If you need more functionality like
-async, parse phone number, saving to xls(xlsx) file format, please contact with
-me.
+This is demo of task from freelance. This script work only with html request.
+If you need more functionality like async, parse phone number, saving to
+xls(xlsx) file format, please contact with me.
 
 ## Task
 > Добрый день. Нужно собрать данные с сайта olx точка kz 
