@@ -40,5 +40,6 @@ pipenv run app.py
 
 # ToDo
 [] - refactor code
+[] - tests
 [] - project structure
 [] - create docker
