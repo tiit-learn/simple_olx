@@ -11,7 +11,7 @@ import csv
 from pprint import pprint
 
 DIRS = ['debug', 'output']
-AUTH_TOKEN = "165700b2614db11ed8ed70f6cec8b5160e07ee26"
+AUTH_TOKEN = "" # need to get it from cookies in browser, name: a_access_token 
 BASE_URL = "https://www.olx.kz/"
 POSTS_XPATH = """//*/h4[@class="normal"]/*[contains(@class, 'link')]/@href"""
 HEADERS = ["url", "id пользователя", "заголовок", "name", "телефон", "область", "город", "район", "категория", "подкатегория"]

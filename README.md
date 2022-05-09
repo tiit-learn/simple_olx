@@ -24,7 +24,7 @@ xls(xlsx) file format, please contact with me.
 - [x] - Format dict object for json
 - [x] - Save data to csv format file
 
-# Install & Rub
+# Install & Run
 ## Install
 ```bash
 python3 -m pip install pipenv
@@ -33,6 +33,10 @@ python3 -m pip install pipenv
 ```bash
 pipenv install --dev
 ```
+---
+You need to change *AUTH_TOKEN* in app.py file. You can get it from cookies of
+of your olx session from browser. Cookies name - *a_access_token*
+
 ## Run
 ```bash
 pipenv run app.py
